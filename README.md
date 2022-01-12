@@ -8,26 +8,21 @@ Das Criptografias mais curiosas na história da humanidade podemos citar a cript
 * **Normal**:  `a ligeira raposa marrom saltou sobre o cachorro cansado`
 * **Cifrado**: `d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr`
 
-O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas menagens:
-
-Regras:
-
-* As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
-* No nosso caso os números serão mantidos, ou seja:
-    * Normal: 1
-    * Cifrado: 1
+Esse é um desafio em que está sendo automatizada a criptografia e descriptografia dessas menagens usando Java.
 
 
-## Tópicos
+## Instalação
 
-Neste desafio você aprenderá:
+Para instalar é só clonar o repositório usando o comando abaixo
+no terminal dentro do diretório que deseja.
 
-* Java
+```bash
+  git clone git@github.com:JSouza27/Criptografia-de-J-lio-Cesar-Java.git
+```
 
-## Requisitos
+Após clonar é só abrir o projeto na sua IDE favorita.
 
-Para este desafio você precisará de:
+## Linguagem utilizada
 
-- Java 8 (ou superior)
-- Git
+- Java 8
 
